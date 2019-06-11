@@ -1,0 +1,2 @@
+# vic
+practica 1
